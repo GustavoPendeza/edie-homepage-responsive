@@ -1,4 +1,4 @@
-<h1 align="center">Edie Homepage Responsive (Em andamento)</h1>
+<h1 align="center">Edie Homepage Responsive</h1>
 
 <div align="center">
   Solution for a challenge from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/GustavoPendeza/edie-homepage-responsive">
       Solution
     </a>
     <span> | </span>
@@ -31,7 +31,10 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/53589614/236057242-640a789b-dfaf-4b03-8bc7-f2ea0a6ab3ca.png)
+
+![screenshot-mobile](https://user-images.githubusercontent.com/53589614/236057447-c5251321-96b8-4400-b465-fda0919b0791.png)
+![screenshot-menu-mobile](https://user-images.githubusercontent.com/53589614/236057555-c3ef017c-4000-4061-97ee-a42d6cd917d7.png)
 
 ### Built With
 
